@@ -1,8 +1,10 @@
-pf-Assignment_01\n
-NAME: KHADIJA
-FATHER NAME: ABDUL HAMEED
-STUDENT ID: 26K-0027
-SECTION: BAI-A
-SUBJECT: PF LAB ASSIGNMENT_01
+# PF Theory Assignment 01
 
-THIS REPO CONTAINS PART A AND PART B (6 QUESTIONS) WITH CODE AND OUTPUT SCREENSHOTS.
+**NAME:** KHADIJA
+**FATHER NAME:** ABDUL HAMEED
+**STUDENT ID:** 26K-0027
+**SECTION:** BAI-A
+**SUBJECT:** PF Theory Assignment 01
+
+### Description
+This assignment includes Part A and Part B with complete C programs and output screenshots.
