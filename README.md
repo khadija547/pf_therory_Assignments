@@ -1,10 +1,10 @@
-# pf-Assignment_01
+# pf-Assignments
 
 
 **NAME:** KHADIJA  
 **FATHER NAME:** ABDUL HAMEED  
 **STUDENT ID:** 26K-0027  
 **SECTION:** BAI-A  
-**SUBJECT:** PF LAB ASSIGNMENT_01  
+**SUBJECT:** this repository contain all the pf assignments  
 
-THIS REPO CONTAINS PART A AND PART B (6 QUESTIONS) WITH CODE AND OUTPUT SCREENSHOTS.
+
