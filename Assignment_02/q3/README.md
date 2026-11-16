@@ -20,4 +20,8 @@
 
 ## Program Output
 
-![Program Output](<question
+![Program Output](<question 3 output.PNG>)
+
+
+## Code File
+`q3.c`
